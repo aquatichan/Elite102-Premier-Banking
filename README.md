@@ -1,7 +1,8 @@
 # 🦁 Premier Banking - 2026 Code2College Elite102 Banking App Project 🦁
 
 A fully functional, text-based CLI banking application built with Python 3.12.1 and SQLite. Supports account management, deposits, withdrawals, transfers, and transaction history tracking.
-<img width="339" height="632" alt="Screen Shot 2026-04-21 at 8 29 21 PM" src="https://github.com/user-attachments/assets/46a779c6-9292-458a-a53c-e35c29718d5c" />
+<img width="716" height="487" alt="Screen Shot 2026-04-23 at 5 35 05 PM" src="https://github.com/user-attachments/assets/d4b13e63-6ffe-4baf-83e9-ecc589a52053" />
+
 
 ## Project Structure
 
