@@ -264,7 +264,7 @@ def run_app():
      _/  /_/  /      __/ / _| |
     (,__/(,__/      (,__/ (,__/
 
-    ''')
+    ''') # Adapted from https://asciiart.cc/view/12679
     
     while True:
         try:

@@ -7,7 +7,7 @@ A fully functional, text-based CLI banking application built with Python 3.12.1 
 ## Project Structure
 
 ```
-elite102/
+Elite102-Premier-Banking/
 ├── main.py                 # Interactive menu-driven application
 ├── initialize_db.py        # Database initialization script
 ├── banking_operations.py   # Core business logic
